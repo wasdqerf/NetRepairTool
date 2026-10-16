@@ -67,3 +67,5 @@ Go to the [Releases](https://github.com/wasdqerf/NetRepairTool/releases) page an
 ```bash
 pip install pyinstaller
 pyinstaller --onefile --noconsole --uac-admin --icon="NetRepairTool.ico" --name "NetRepairTool" NetRepairTool.py
+![screenshot](https://github.com/user-attachments/assets/049f80bd-c43b-41c0-85df-bbc45636cafb)
+![screenshot](https://github.com/user-attachments/assets/c58d8edd-98c0-4cdf-a881-2ac5a2a08681)
