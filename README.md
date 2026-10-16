@@ -1,5 +1,6 @@
 # NetRepairTool
-
+<img width="1002" height="842" alt="NetRepairTool_VqSRTAHuOq" src="https://github.com/user-attachments/assets/fe973b3a-c376-4b8b-af24-80ab9e60b8c4" />
+<img width="1002" height="842" alt="NetRepairTool_eqZLPg91mC" src="https://github.com/user-attachments/assets/0913cb5e-8bdd-42f9-b389-85b4dd421644" />
 **Windows 11 网络故障诊断与修复工具 | Windows 11 Network Diagnosis and Repair Tool**
 
 一款免费、开源、免安装的 Windows 网络工具，帮助普通用户快速排查和修复常见网络问题。
